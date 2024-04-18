@@ -1,0 +1,10 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --page-gutter: 15%;
+  --font1: HelveticaNow, Helvetica, sans-serif;
+}
